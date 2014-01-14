@@ -1,2 +1,2 @@
--lt-dependencies-check
+lt-dependencies-check
 ======================
